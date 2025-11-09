@@ -23,7 +23,7 @@ This project is very easy to run because it uses only Python's built-in librarie
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/hotel-ordering-system.git](https://github.com/your-username/hotel-ordering-system.git)
+    git clone https://github.com/agent-rxd/Hotel-Billing-System-in-Python.git
     cd hotel-ordering-system
     ```
 
