@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+*env/
+
+# Generated Database
+# The script creates this, so we don't need to upload it.
+*.db
+hotel.db
+
+# Generated Bills
+bill_*.txt
+
+# IDE & OS specific
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
